@@ -1,1 +1,3 @@
 # SyncKeyDownSample
+同じアプリを複数起動してキー入力をシェアしたい時に使う[SyncKeyDown]クラスを作成
+SyncKeyDownSampleは動作確認用のアプリ
